@@ -1,5 +1,5 @@
 cd Jenkins-docker
-
+hello
 -- creation du repository distant de test
 git init
 git add .
